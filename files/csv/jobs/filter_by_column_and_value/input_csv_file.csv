@@ -1,0 +1,4 @@
+column1,column2,column3
+0,not_ok,some value 0
+1,ok,some value 1
+2,not_ok,some value 2
