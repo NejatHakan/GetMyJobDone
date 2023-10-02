@@ -1,3 +1,4 @@
+# Change the working directory
 cd files/csv/jobs/filter_by_column_and_value/
 
 # Print lines having cloumn 2 value "ok"
